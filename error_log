@@ -1,0 +1,36 @@
+[12-Nov-2023 22:22:34 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/matawbaj/eshop/vendor/composer/platform_check.php on line 24
+[12-Nov-2023 22:22:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/matawbaj/eshop/vendor/composer/platform_check.php on line 24
+[05-Dec-2023 04:31:57 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/mataonbj/eshop/vendor/composer/platform_check.php on line 24
+[05-Dec-2023 04:33:31 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.30. in /home/mataonbj/eshop/vendor/composer/platform_check.php on line 24
+[03-Jan-2024 17:38:58 America/New_York] PHP Warning:  require(/home/mataonbj/public_html/../eshop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 17:38:58 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/mataonbj/public_html/../eshop/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mataonbj/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 17:39:03 America/New_York] PHP Warning:  require(/home/mataonbj/public_html/../eshop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 17:39:03 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/mataonbj/public_html/../eshop/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mataonbj/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 17:39:06 America/New_York] PHP Warning:  require(/home/mataonbj/public_html/../eshop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 17:39:06 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/mataonbj/public_html/../eshop/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mataonbj/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 17:52:40 America/New_York] PHP Warning:  require(/home/mataonbj/public_html/../eshop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 17:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/mataonbj/public_html/../eshop/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mataonbj/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 18:01:39 America/New_York] PHP Warning:  require(/home/mataonbj/public_html/../eshop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 18:01:39 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/mataonbj/public_html/../eshop/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mataonbj/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 18:01:40 America/New_York] PHP Warning:  require(/home/mataonbj/public_html/../eshop/vendor/autoload.php): Failed to open stream: No such file or directory in /home/mataonbj/public_html/index.php on line 34
+[03-Jan-2024 18:01:40 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/mataonbj/public_html/../eshop/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/mataonbj/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mataonbj/public_html/index.php on line 34
+[19-Jan-2024 20:31:09 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/mataonbj/eshop/app/Http/Livewire/HomeComponent.php on line 3
+[19-Jan-2024 20:31:46 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/mataonbj/eshop/app/Http/Livewire/HomeComponent.php on line 3
